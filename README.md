@@ -14,8 +14,6 @@ pkg install git
 
 pkg install php
 
-git clone https://github.com/Thaniiaa/boba7
-
 cd boba7
 
 php 30.php
